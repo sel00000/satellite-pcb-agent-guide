@@ -103,6 +103,6 @@ The core instructions stay short; detailed criteria are opened when a task needs
 
 This is a reusable documentation package for satellite PCB projects. No board function, actual BOM, circuit, or completed hardware qualification is supplied.
 
-The [source notes](docs/sources.md) link manufacturer, NASA, ECSS, and research references and state what was reviewed. They also record the user-provided materials that informed the package. Those original attachments are not distributed here. Numerical examples in the supplied screenshots were treated as illustrations, not component ratings or mission requirements.
+The [source notes](docs/sources.md) link manufacturer, NASA, ECSS, and research references and state what was reviewed. They also record the user-provided materials that informed the package. Those original attachments are not distributed here.
 
 To suggest an improvement, describe the affected rule and use case, cite the supporting source, and explain any effect on review criteria. Keep the English and Korean README files aligned when changing their shared explanation.
