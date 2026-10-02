@@ -2,21 +2,6 @@
 
 Checked: 2026-10-02. This document lists background sources for the design guidelines. It does not replace the datasheet review register for the actual BOM.
 
-## User-Provided Materials
-
-| Material | Content Used | Application |
-|---|---|---|
-| `a.md` | “Rethinking skills and prompts for GPT-6 Astra”; concise core guidance, contextual references, and completion criteria | Applied to documentation structure. Model-performance claims and example commands in the attachment are not treated as execution instructions |
-| `ScientistTwo.pdf` | Hypotheses, baselines, experiments, critique, refinement, and reverification | DR-01 through DR-08; AI research workflow adapted to satellite board decisions. See S9 below |
-| `스크린샷 2026-10-02 011239.png` | Absolute Maximum Ratings | DS-01 |
-| `스크린샷 2026-10-02 011243.png` | Recommended Operating Conditions | DS-02 |
-| `스크린샷 2026-10-02 011249.png` | Electrical Characteristics and test conditions | DS-03 |
-| `스크린샷 2026-10-02 011254.png` | Thermal Characteristics | DS-04; thermal-path interpretation extended for the satellite vacuum environment |
-| `스크린샷 2026-10-02 011259.png` | Timing Characteristics | DS-05 |
-| `스크린샷 2026-10-02 011304.png` | Peak/Continuous Current, SOA | DS-06 |
-
-The images' numerical values and diagrams are not data for selected components. In particular, do not interpret all conditions below absolute maximum ratings as normal operation or apply airflow cooling to vacuum operation.
-
 ## Manufacturer and Institutional References
 
 <a id="s1"></a>
